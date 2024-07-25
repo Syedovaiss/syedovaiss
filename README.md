@@ -21,9 +21,9 @@ Looking for some projects of Android & iOS to collaborate
 <a href="https://github.com/syedovaiss">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedovaiss&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&count_private=true" />
 </a>
-<a href="https://github.com/syedovaiss">
+<!-- <a href="https://github.com/syedovaiss">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=syedovaiss&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ovais's GitHub Stats" />
-</a>
+</a> -->
 
 ## Skills
 
@@ -40,3 +40,5 @@ Looking for some projects of Android & iOS to collaborate
 ### 📫 How to reach me:
 
 You can contact me by sending an email on  <p><a href="mailto:ovaisakhtar97@gmail.com">My Gmail</a></p>
+Also, you can find me here
+1. Linkedin(https://www.linkedin.com/in/syedovaisakhtar/)
