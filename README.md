@@ -1,6 +1,3 @@
-
-![Ovais's GitHub Banner](./banner.png)
-
   
 ![Static Badge](https://img.shields.io/badge/Linkedin-Profile?style=flat-square&logo=linkedin&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsyedovaisakhtar)
 ![Static Badge](https://img.shields.io/badge/Twitter-Profile?style=flat-square&logo=twitter&labelColor=white&color=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2Fsyedovaisakhta1)
@@ -8,8 +5,9 @@
 
 ## 🔭 I’m currently working on
 - Android Application Development
-- iOS Application Development
-- Backend ( if having free time )
+- iOS Application Development ( On Availability )
+- Backend ( On Availability )
+- React Native ( On Availability )
 
 ## 👯 I’m looking to collaborate on
 
